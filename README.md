@@ -85,7 +85,6 @@ Built an informational website highlighting prophets of The Church of Jesus Chri
 
 ---
 
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
