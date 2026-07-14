@@ -102,8 +102,11 @@ Built an informational website highlighting prophets of The Church of Jesus Chri
 
 ## 📫 Connect With Me
 
-- GitHub: [christian-chukwu](https://github.com/christian-chukwu)
-- LinkedIn: [Christian Chukwu](https://www.linkedin.com/in/christian-chukwu-a266201b1)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Chukwu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christian-chukwu-a266201b1)
+
+[![GitHub](https://img.shields.io/badge/GitHub-christian--chukwu-black?style=for-the-badge&logo=github)](https://github.com/christian-chukwu)
 ---
 
 > *"Continuous learning, consistent improvement, and building software that makes a difference."*
