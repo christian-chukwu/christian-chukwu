@@ -109,4 +109,6 @@ Built an informational website highlighting prophets of The Church of Jesus Chri
 [![GitHub](https://img.shields.io/badge/GitHub-christian--chukwu-black?style=for-the-badge&logo=github)](https://github.com/christian-chukwu)
 ---
 
+![](https://komarev.com/ghpvc/?username=christian-chukwu&style=for-the-badge)
+
 > *"Continuous learning, consistent improvement, and building software that makes a difference."*
