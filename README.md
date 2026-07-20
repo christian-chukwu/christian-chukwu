@@ -7,9 +7,6 @@ I'm a passionate software developer who enjoys creating practical, user-friendly
 I enjoy learning new technologies, collaborating on projects, and challenging myself with problems that improve both my technical and creative thinking. My goal is to become a professional software engineer who builds applications that make a meaningful impact.
 
 ---
-<p align="center">
-  <img src="images/christian.jpg" width="180" style="border-radius:50%;" alt="Christian Chukwu"/>
-</p>
 
 ## 💻 Technical Skills
 
