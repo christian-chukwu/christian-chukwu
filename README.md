@@ -101,15 +101,11 @@ Built an informational website highlighting prophets of The Church of Jesus Chri
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christian-chukwu&show_icons=true&theme=github_dark&hide_border=true" alt="Christian Chukwu's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-chukwu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-chukwu&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=christian-chukwu&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-chukwu&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ## 📫 Connect With Me
