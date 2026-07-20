@@ -101,10 +101,6 @@ Built an informational website highlighting prophets of The Church of Jesus Chri
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christian-chukwu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-chukwu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Christian Chukwu's GitHub Stats" />
 </p>
 
