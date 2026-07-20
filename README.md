@@ -101,11 +101,19 @@ Built an informational website highlighting prophets of The Church of Jesus Chri
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-chukwu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://komarev.com/ghpvc/?username=christian-chukwu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-chukwu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-chukwu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Christian Chukwu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-chukwu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=christian-chukwu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📫 Connect With Me
